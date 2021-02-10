@@ -1,5 +1,4 @@
 ### Chat-Application-
-Simple chat application implemented using sockets in Python
 
 Simple Client-Server based Chat Application for multiple Clients, using Sockets programming, Python, Threading, Postgres and Tkinter for GUI. 
 This app is using socket programming to send data between clients.
